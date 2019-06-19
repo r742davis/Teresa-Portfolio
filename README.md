@@ -1,2 +1,2 @@
 # Teresa-Portfolio
-Teaching portfolio made for Teresa Alvarez
+Teaching portfolio made for Teresa Alvarez using React.
